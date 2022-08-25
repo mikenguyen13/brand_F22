@@ -1,0 +1,42 @@
+---
+title: "Brand Audit"
+author: "Mike Nguyen"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+| Task                         | Date        | Points |
+|------------------------------|-------------|--------|
+| [Group Assignment]           | Sep 13      |        |
+| [Brand Positioning]          | Sep 27      |        |
+| [Brand Elements]             | Oct 4       |        |
+| [Brand Strategy - Pricing]   | Oct 11      |        |
+| [Brand Strategy - Promotion] | Oct 13      |        |
+| [Project Interim Report]     | Oct 20      |        |
+| [Project Report]             | Dec 1       |        |
+| [Project Presentation]       | Dec 6 and 8 |        |
+|                              |             |        |
+|                              |             |        |
+|                              |             |        |
+|                              |             |        |
+|                              |             |        |
+
+\newpage
+
+# Group Assignment
+
+# Brand Positioning
+
+# Brand Elements
+
+# Brand Strategy - Pricing
+
+# Brand Strategy - Promotion
+
+# Project Interim Report
+
+# Project Report
+
+# Project Presentation
