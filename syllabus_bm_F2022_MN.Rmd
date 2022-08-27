@@ -17,7 +17,7 @@ bibliography: references.bib
 
 Instructor: Mike Nguyen
 
-Office: 249
+Office: 249 Mervis Hall
 
 Email: [mikenguyen\@pitt.edu](mailto:mikenguyen@mail.missouri.edu){.email}
 
@@ -25,19 +25,19 @@ Class Hours: 6:30 PM - 9:00 PM (Monday) 08/29/2022 - 12/17/2022
 
 Classroom: 201 Mervis Hall
 
-Office Hours: [by appointment](https://calendly.com/mikenguyenbio)
+Office Hours: by appointment
 
 # Textbooks
 
-Strategic Brand Management[**, *5th edition, Kevin Keller & Vanitha Swaminathan***]{.underline} The materials for this course are delivered online by Pearson.
+Strategic Brand Management[**, *5th edition, Kevin Keller & Vanitha Swaminathan***]{.underline}
+
+[Case Studies](https://console.pearsoned.com/enrollment/maumcs)
 
 <br>
 
-# Objectives
+# Course Objectives
 
-## Course Objectives
-
-The Brand Management course will benefit prospective brand and product managers, as well as marketing-minded managers. The course examines how brands influence customer choices and how to manage them. As organizations have purchased or grown brand assets, they've realized that branding is challenging. Since branding success is both an art and science, there is hardly ever a "right" strategy for a branding problem. This course will attempt to provide a comprehensive understanding and discussion of important theories and models, as well as toolkit that is available at the brand manager's disposal. However, an "optimal" solution will ultimate depend on the manager's expertise and brand's context.
+The Brand Management course will benefit the prospective brand and product managers, as well as marketing-minded managers. The course examines how brands influence customer choices and how to manage them. As organizations have purchased or grown brand assets, they've realized that branding is challenging. Since branding success is both an art and science, there is hardly ever a "right" strategy for a branding problem. This course will attempt to provide a comprehensive understanding and discussion of important theories and models, as well as a toolkit that is available at the brand manager's disposal. However, an "optimal" solution will ultimately depend on the manager's expertise and the brand's context.
 
 Students learn how to establish effective brand strategies in this elective course, in which three important questions will be answered:
 
@@ -45,7 +45,7 @@ Students learn how to establish effective brand strategies in this elective cour
 2.  How to quantify brand equity
 3.  How to expand your firm with brand equity
 
-This course fundamental aims are to understand:
+This course's fundamental aims are to understand:
 
 1.  Important issues in designing and evaluating brand strategies
 2.  Appropriate concepts and procedures to increase the long-term profitability of brand strategies.
@@ -62,7 +62,7 @@ It includes lectures, exercises, case discussions, and a brand audit assignment.
 | [Examinations] (2)       | 200    |
 | [Attendance]             | 40     |
 | [Participation]          | 60     |
-| [Weekly Quizzes]         | 100    |
+| [Biweekly Quizzes]       | 100    |
 | [Case Studies] (10)      | 200    |
 | **Group**                |        |
 | [Case Discussion Leader] | 100    |
@@ -146,18 +146,18 @@ Extra Credit: 3-5%
 
 Assignments consist of:
 
--   [Weekly Quizzes]
+-   [Biweekly Quizzes]
 -   [Case Studies]
 -   [Case Discussion Leader]
 -   [Brand Audit]
 
 <br>
 
-### Weekly Quizzes
+### Biweekly Quizzes
 
--   Each week you will have to complete a quiz on Canvas that is due on Sunday evening (11:59 PM). Students can view correct answers after the due date.
+-   Every two weeks you will have to complete a quiz on Canvas that is due on Sunday evening (11:59 PM). Students can view correct answers after the due date.
 
--   The quiz will cover class materials and chapter readings. It's very important that you read the chapter before taking the quiz.
+-   The quiz will cover class materials, chapter and journal articles readings. It's very important that you read the chapter and review the class materials before taking the quiz.
 
 -   You can use your notes during quizzes, but you can't search for answers online (Lockdown browser).
 
@@ -173,75 +173,54 @@ Assignments consist of:
 
 ### Case Studies
 
--   ***Case Discussions*** are [individual]{.underline} exercises to be completed on your own and form the basis for our class discussions.
+-   ***Case Studies*** are [individual]{.underline} exercises to be completed on your own and form the basis for our class discussions.
 
 -   They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises.
 
 -   This is a chance for you to apply marketing research materials to real-life settings.
 
--   Each case study is 20 points. There are a total of 6 cases.
+-   Each case study is 20 points. There are a total of 10 cases.
 
--   Please read the "[Case Discussions Document](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/case_discussion.pdf)" for more information.
+-   To purchase the case studies, you can use this [link](https://console.pearsoned.com/enrollment/maumcs)
+
+-   Please read the "[Case Studies](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/case_discussion.pdf)" for more information.
 
 <br>
 
 ### Case Discussion Leader
 
+-   Each team is expected to lead **2 case studies**.
+
+-   It's up to each presenting team to use **40 minutes** wisely and creatively to lead an interesting case study so that the class can come out understanding the case better and can leverage insights from the discussion for future application.
+
+-   A suggested format includes: 
+
+    1.  A summary of the case, including the company, its products, services, and problems or conundrums.
+    2.  Thought-provoking questions
+    3.  Potential solutions to the problems. 
+    4.  A slide that summarizes all your takeaways and insights (this can help not only you understand the case and better lead it, but also for the class to take it as a reference when taking quizzes and exams).
+
+-   [Sign-up](https://docs.google.com/spreadsheets/d/1tcQJzFPFR6zMXT0gdkDspYs4qrDK-zCbMlYvJYVFniM/edit#gid=0)
+
 <br>
 
 ### Brand Audit {#group-term-project-project-assignment}
 
-A team can have up to 5 members.
+-   A team can have up to 5 members.
 
-Each group will examine a different brand (can consult Interbrand list).
+-   Each group will examine a different brand (can consult the [Interbrand](https://interbrand.com/best-global-brands/) list).
 
-1.  Brand inventory: (a comprehensive summary of a firm's current marketing and branding programs) Brand definition: Brand in consumer's mental map
-2.  Brand exploratory (consumer profiles)
-3.  Summary and evolution of current branding program.
-    1.  How was the brand established? (e.g., brand story, 4Ps, online presence)
+-   Similar to company's projects, group projects in academics can be frustrating (e.g., scheduling issues, unequal division of labor, free-rider problem, etc.). However, it's important that you learn how to handle teamwork. Since you can choose your team members, do so wisely! Excellent oral, written, and interpersonal skills are critical for this project. The first component of your Brand Audit includes data collecting, so consider adding at least one marketing research analyst (i.e., those who can conduct data analysis) to your team.
 
-    2.  How did the brand grow? (e.g., extension, cobranding, etc.)
+-   All concerns outside of the intersection between group project works and course content (e.g., contribution quality or member participation) must be addressed internally.
 
-    3.  SWOT analysis
+-   There will be two group evaluations throughout the semester (mid-term and final evaluations). Your individual group project grade will be adjusted based on your team member' evaluations to ensure fairness and professionalism.
 
-Brand Inventory:
+-   Group members will evaluate each other's performance on the project, and the evaluation will be considered in assigning individual students' grades for the project. If a group member consistently fails to contribute appropriately to the group's work, the other group members may request in writing to the instructor that the non-performing member be terminated from group. In such instances, the terminated group member will be allowed to use data collected by the group but will be required to complete remaining project assignments on his/her own, including data analysis, presentation, and final report. A terminated group member may appeal this decision to the instructor in writing, but must do so within **four calendar days of notice of dismissal**.
 
--   A detailed profile of how a firm markets, brands, and sells its products and services.
+-   ***Project Assignments*** (PA) are described in a separate document tilted "[Brand Audit](https://github.com/mikenguyen13/brand_F22/raw/main/project/brand_audit.pdf)." To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
 
--   Examine all brand elements (e.g., logos, symbols, packaging, slogans, trademarks).
-
--   Examine the product/idea/service inherent attributes (4Ps)
-
--   Examine direct and indirect competitive brands for points of parity and points of difference
-
-Brand Exploratory: Consumer knowledge of the brand awareness, associations (category, use, brand promise). This report is to understand what consumers think and feel about the brand to identify sources of brand equity.
-
--   Analysis of prior research (internal, external) and media (trade magazines, PR sources, employee interviews)
-
--   Qualitative research (from classmates) and exploratory quantitative survey to develop metal map of brand knowledge.
-
-Recommendations for brand positioning
-
--   How to move the current brand image to desired brand image? Which new associations to create and which ones to eliminate?
-
--   Identify a marketing strategy/ program to bring about the desired positioning. How can brand equity be generated and exploited to optimize profits?
-
-Reports:
-
-1.  Progress Report: This report should establish your preliminary vision of a brand's "mental map" in terms of the strength, favorability, and originality of prominent brand connections and propose a brand exploration questionnaire.
-2.  Final Report: Your written summary should be 20 double-spaced typed pages, with a one-page executive summary and appendices (1" margins, 12-point font). Each team will deliver a 25-minute brand audit in the last two weeks of the semester. On the day of the presentation, I'd also like the slides.
-
-Similar to company's projects, group projects in academics can be frustrating (e.g., scheduling issues, unequal division of labor, free-rider problem, etc.). However, it's important that you learn how to handle teamwork. Since you can choose your team members, do so wisely! Excellent oral, written, and interpersonal skills are critical for this project. The first component of your Brand Audit includes data collecting, so consider adding at least one marketing research analyst (i.e., those who can conduct data analysis) to your team.
-
-All concerns outside of the intersection between group project works and course content (e.g., contribution quality or member participation) must be addressed internally.
-
-There will be two group evaluations throughout the semester (mid-term and final evaluations). Your individual group project grade will be adjusted based on your team member' evaluations to ensure fairness and professionalism.
-
-Group members will evaluate each other's performance on the project, and the evaluation will be considered in assigning individual students' grades for the project. If a group member consistently fails to contribute appropriately to the group's work, the other group members may request in writing to the instructor that the non-performing member be terminated from group. In such instances, the terminated group member will be allowed to use data collected by the group but will be required to complete remaining project assignments on his/her own, including data analysis, presentation, and final report. A terminated group member may appeal this decision to the instructor in writing, but must do so within **four calendar days of notice of dismissal**.
-
--   ***Project Assignments*** (PA) are described in a separate document tilted "[Project Assignment](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/Project_Assignments_online.pdf)". They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
--   [Sample term project report](https://github.com/mikenguyen13/mar4050_S22/tree/main/project_assignment/written_report)
--   Sign-up [here](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing)
+-   [Sign-up](https://docs.google.com/spreadsheets/d/1tcQJzFPFR6zMXT0gdkDspYs4qrDK-zCbMlYvJYVFniM/edit?usp=sharing) for presentation and meeting with the instructor.
 
 <!-- ### Branding Insights -->
 
@@ -271,17 +250,7 @@ A typical approach to reading journal articles is
 
 3.  read the discussion and conclusion section to understand the implications of the study
 
-4.  write a short summary (for the exams)
-
-Articles
-
--   [@john2006]
-
--   [@aaker1997b]
-
--   [@aaker1990]
-
--   [@völckner2006]
+4.  write a short summary (for the exams and quizzes)
 
 ## Examinations
 
@@ -297,152 +266,131 @@ Articles
 **Import note:**
 
 -   All of the course materials are published on Canvas
--   PA is a group project assignment.
--   CD is case discussion
 -   Chapters refers to chapters in the textbook.
 -   This schedule is subject to changes due to possible adaption to the class' pace. Hence, you should always view the most updated version on Canvas.
 -   This schedule is made based on [2022-2023 Academic Calendar](https://www.registrar.pitt.edu/calendars)
 
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| Week | **Date**            | **Topic**                                               | **Assignments Due**                                                                                                                              | Weekly Quiz | **Chapter Reading** |
-+:====:+=====================+=========================================================+==================================================================================================================================================+=============+=====================+
-| 1    | Aug 29              | Course Introduction                                     | Student Information Due                                                                                                                          |             | 1                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Recommended Readings:                                                                                                                            |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@zaltman1997]                                                                                                                               |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-|      | Sep 5               | No class                                                |                                                                                                                                                  |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      | (Labor Day)         |                                                         |                                                                                                                                                  |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 2    | Sep 12              | Customer-based Brand Equity                             | Case: Nike                                                                                                                                       | 1           | 2                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | Brand Positioning                                       | Brand selection                                                                                                                                  |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Group Formation Announcement                                                                                                                     |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Blog Brand Choice Submission                                                                                                                     |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Recommended readings:                                                                                                                            |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [Aaker (2003)](https://www.researchgate.net/profile/Ann-Mirabito/publication/237251161_MITSloan/links/0a85e53a8aab1063c2000000/MITSloan.pdf) |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 3    | Sep 19              | Brand Resonance & Value Chain                           | Draft brand image survey by the end of class                                                                                                     | 2           | 3                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | Brand Communities                                       | Case: MTV                                                                                                                                        |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Recommended readings:                                                                                                                            |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | [@muniz2001]                                                                                                                                     |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | [@mcalexander2002]                                                                                                                               |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 4    | Sep 26              | Brand Elements (e.g., names, logos, slogans, packaging) | Project Discussion part 1: STP                                                                                                                   | 3           | 4                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Brand Strategy - Marketing Programs                                                                                                              |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Blog Assignment #1                                                                                                                               |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Case: Target                                                                                                                                     |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 5    | Oct 3               | Marketing Programs (Product, Pricing, Channel)          | Case: Redbull                                                                                                                                    | 4           | 5                   |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 6    | Oct 10              | IMC (Promotion)                                         | Case: got milk?                                                                                                                                  | 5           | 6                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Project Discussion Part 2: Brand Elements                                                                                                        |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 7    | Oct 17              | Branding in the Digital Era                             | Case: Intel                                                                                                                                      | 6           | 7, 8                |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | Brand Associations                                      | First Exam                                                                                                                                       |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Recommended reading:                                                                                                                             |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@john2006]                                                                                                                                  |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 8    | Oct 24              | Brand Equity Measurement and Management                 | **Required** **reading**:                                                                                                                        | 7           | 9                   |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@rust2021]                                                                                                                                  |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | Due: 1-page report outline and team meetings with professor                                                                                      |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 9    | Oct 31              | Sources of BE - Customer Mindset                        | Case: The Hunger Games                                                                                                                           | 8           | 10, 11              |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | (Brand Personality)                                     | Recommended reading:                                                                                                                             |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | Outcomes of BE - Market Performance                     | -   [@macinnis1991]                                                                                                                              |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@aaker1997b]                                                                                                                                |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@coulter2001]                                                                                                                               |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@azoulay2003]                                                                                                                               |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@swaminathan2009]                                                                                                                           |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | ```{=html}                                                                                                                                       |             |                     |
-|      |                     |                                                         | <!-- -->                                                                                                                                         |             |                     |
-|      |                     |                                                         | ```                                                                                                                                              |             |                     |
-|      |                     |                                                         | -   [@aaker1999a]                                                                                                                                |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 10   | Nov 7               | Brand Design and Implementation (Brand Architecture)    | Case: Nivea                                                                                                                                      | 9           | 12, 13              |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | New Product Development and Brand Extensions            | Recommended reading:                                                                                                                             |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@aaker1990]                                                                                                                                 |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@swaminathan2001]                                                                                                                           |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@bottomley2001]                                                                                                                             |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@balachander2003]                                                                                                                           |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@völckner2006]                                                                                                                              |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@swaminathan2009a]                                                                                                                          |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         | -   [@swaminathan2011]                                                                                                                           |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 11   | Nov 14              | Sustainable Branding                                    | Case: Snapple                                                                                                                                    | 10          | 14                  |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      |                     | Revitalizing diluted brands                             |                                                                                                                                                  |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-|      | Nov 21              | No class                                                | (Thanksgiving break)                                                                                                                             |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 12   | Nov 28              | Global Branding & Future of Branding                    | Case: Dollar Shave Club                                                                                                                          |             | 15, 16              |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 13   | Dec 5               | 4 presentations                                         |                                                                                                                                                  |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      | (Last day of class) | Discussion + Lecture                                    |                                                                                                                                                  |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
-| 14   | Dec 12              | Second Exam                                             |                                                                                                                                                  |             |                     |
-|      |                     |                                                         |                                                                                                                                                  |             |                     |
-|      | (Final Exam Week)   |                                                         |                                                                                                                                                  |             |                     |
-+------+---------------------+---------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+-------------+---------------------+
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| Week | **Date**            | **Topic**                                               | **Assignments Due**                                                                                                   | Brand Audit                                                                 | Case              | Biweekly Quiz | **Chapter Reading** |
++:====:+=====================+=========================================================+=======================================================================================================================+=============================================================================+===================+===============+=====================+
+| 1    | Aug 29              | Course Introduction                                     | Student Information Due                                                                                               | Group Formation                                                             |                   |               | 1                   |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | Recommended Readings:                                                                                                 |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@zaltman1997]                                                                                                    |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+|      | Sep 5               | No class                                                | Group Formation Announcement                                                                                          |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      | (Labor Day)         |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 2    | Sep 12              | Customer-based Brand Equity                             |                                                                                                                       | Brand Selection                                                             | Nike              | 1             | 2                   |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | Brand Positioning                                       |                                                                                                                       |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 3    | Sep 19              | Brand Resonance & Value Chain                           | Required readings:                                                                                                    | Brand Exploratory                                                           | MTV               |               | 3                   |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | Brand Communities                                       | -   [@muniz2001]                                                                                                      |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@mcalexander2002]                                                                                                |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 4    | Sep 26              | Brand Elements (e.g., names, logos, slogans, packaging) | Project Discussion part 1: STP                                                                                        | Brand Positioning                                                           | Target            | 2             | 4                   |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | Brand Strategy - Marketing Programs                                                                                   |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | Blog Assignment #1                                                                                                    |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 5    | Oct 3               | Marketing Programs (Product, Pricing, Channel)          |                                                                                                                       | Brand Elements                                                              | Redbull           |               | 5                   |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 6    | Oct 10              | IMC (Promotion)                                         | Project Discussion Part 2: Brand Elements                                                                             | Pricing                                                                     | got milk?         | 3             | 6                   |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 7    | Oct 17              | Branding in the Digital Era                             | First Exam                                                                                                            | Promotion                                                                   | Intel             |               | 7, 8                |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | Brand Associations                                      | Required reading:                                                                                                     |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@john2006]                                                                                                       |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 8    | Oct 24              | Meet with instructor                                    | [Sign-up sheet](https://docs.google.com/spreadsheets/d/1tcQJzFPFR6zMXT0gdkDspYs4qrDK-zCbMlYvJYVFniM/edit?usp=sharing) | Progress Report                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       | [Mid-term Eval](https://pitt.co1.qualtrics.com/jfe/form/SV_9QtDOayurK08llc) |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 9    | Oct 31              | Brand Equity Measurement and Management                 | Required reading:                                                                                                     |                                                                             | Dollar Shave Club | 4             | 9                   |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@rust2021]                                                                                                       |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 10   | Nov 7               | Sources of BE - Customer Mindset                        | Recommended reading:                                                                                                  |                                                                             | The Hunger Games  |               | 10, 11              |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | (Brand Personality)                                     | -   [@swaminathan2009]                                                                                                |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | Outcomes of BE - Market Performance                     | Recommended reading:                                                                                                  |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@macinnis1991]                                                                                                   |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@aaker1997b]                                                                                                     |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@aaker1999a]                                                                                                     |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@coulter2001]                                                                                                    |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@azoulay2003]                                                                                                    |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 11   | Nov 14              | Brand Design and Implementation (Brand Architecture)    | Required reading:                                                                                                     |                                                                             | Nivea             | 5             | 12, 13              |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | New Product Development and Brand Extensions            | -   [@swaminathan2001]                                                                                                |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@swaminathan2009a]                                                                                               |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | Recommended reading:                                                                                                  |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@aaker1990]                                                                                                      |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@bottomley2001]                                                                                                  |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@balachander2003]                                                                                                |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@völckner2006]                                                                                                   |                                                                             |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     |                                                         | -   [@swaminathan2011]                                                                                                |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+|      | Nov 21              | No class                                                | (Thanksgiving break)                                                                                                  |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 12   | Nov 28              | Sustainable Branding                                    |                                                                                                                       |                                                                             | Snapple           |               | 14                  |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      |                     | Revitalizing diluted brands                             |                                                                                                                       |                                                                             |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 13   | Dec 5               | Presentations                                           | [Sign-up sheet](https://docs.google.com/spreadsheets/d/1tcQJzFPFR6zMXT0gdkDspYs4qrDK-zCbMlYvJYVFniM/edit?usp=sharing) | Presentation                                                                |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      | (Last day of class) | Discussion + Lecture                                    |                                                                                                                       | [Evaluation](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y)    |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
+| 14   | Dec 12              | Second Exam                                             |                                                                                                                       | Report                                                                      |                   |               |                     |
+|      |                     |                                                         |                                                                                                                       |                                                                             |                   |               |                     |
+|      | (Final Exam Week)   |                                                         |                                                                                                                       | [Final Eval](https://pitt.co1.qualtrics.com/jfe/form/SV_4GbkPzBwJ0ygKnc)    |                   |               |                     |
++------+---------------------+---------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------+-------------------+---------------+---------------------+
 
 : Tentative Schedule
 
 <br>
 
-# Academic Honesty
+# Others
+
+## Academic Honesty
 
 Academic honesty is fundamental to the activities and principles of a university. Students are expected to comply with the [University of Pittsburgh's Policy on Academic Integrity.](https://www.provost.pitt.edu/faculty/academic-integrity-freedom/academic-integrity-guidelines) All members of the academic community must be confident that each person's work has been responsibly and honorably acquired, developed, and presented. Any incident of academic honesty (such as cheating on tests or plagiarism) will be reported to the office of the provost. Academic dishonesty is an extremely serious matter with serious consequences, potentially including an automatic F for the course and probation or expulsion.
 
 <br>
 
-# Special Needs
+## Special Needs
 
 If you have special needs as addressed by the Americans with Disabilities Act and need assistance, you must notify the instructor by the second week of the semester. To request academic accommodations, students must also register with the Disability Resources and Services, 216 William Pitt Union, (412) 648-7890. It is the campus office responsible for reviewing documentation provided by students requesting academic accommodations, and for accommodations planning in cooperation with students and instructors, as needed and consistent with course requirements.
 
 <br>
 
-# Policy on Discrimination
+## Policy on Discrimination
 
 *We have **no tolerance** for discrimination or acts of hate in our community and encourage robust, respectful dialogue and interactions. No matter where you come from, no matter your race, gender, identity, preference or idea & perspective, we all come together to learn, and everyone deserves to be treated with respect and to thrive. If anyone experiences discrimination or harassment, we encourage them to report it to our campus [Office for Equity, Diversity, and Inclusion](https://www.diversity.pitt.edu/civil-rights-title-ix-compliance).*
 
 <br>
 
-# **Decreasing the Risk of COVID-19 in Classrooms**
+## Decreasing the Risk of COVID-19 in Classrooms
 
 Students must follow public health legislation and University of Pittsburgh health standards and recommendations during the epidemic. While in class, you must wear a facial covering and comply with physical distance restrictions; the University may impose more requirements during the semester. These guidelines protect everyone's health and safety. Failure to meet these requirements may result in a Student Conduct violation. Please review these resources:
 

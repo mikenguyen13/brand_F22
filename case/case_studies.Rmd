@@ -7,6 +7,8 @@ output: pdf_document
 
 Based on the Best Practice Cases in Branding, Strategic Brand Management
 
+To purchase the case studies, use this [link](https://console.pearsoned.com/enrollment/maumcs)
+
 # Snapple: Revitalizing a Brand
 
 In the 1980s, many "alternative" soft drink brands were created for New York's yuppies, but only Snapple succeeded. Quaker bought it for \$1.7 billion and sold it to Triarc for \$300 million four years later. Can we understand Quaker's problems and advise Triarc's Mike Weinstein on how to reverse a trendy brand that was out of fashion with its sales decline.
@@ -42,7 +44,7 @@ Materials:
 # The Hunger Games: Catching Fire
 
 1.  What is the difference between The Hunger Games' marketing campaign and a traditional one for a movie?
-2.  Critique the brand storytelling aspect of the marketing campaign based on persistency, pervasiveness, participation, and personalization.
+2.  Critique the brand storytelling aspect of the marketing campaign based on persistence, pervasiveness, participation, and personalization.
 3.  Examine Lionsgate's decision to focus on current fans instead of new ones. Why do you agree or disagree with this decision?
 4.  What did the campaign do well and what could it have done better?
 5.  For the sequel, what aspect of the campaign would you continue to use and what aspect would you leave out?
@@ -126,20 +128,7 @@ Ralph Lauren is a world-renowned brand known for its design, elegance, and quali
 5.  Why should RL add future extensions? What Ralph Lauren extensions wouldn't work, and why?
 6.  Is the brand protected if the man can't run the company?
 
-# Brand Communities at Fox Television
-
-Marketers have debated brand communities for years. This case questions if Family Guy and 24 are actual brand communities. What is a tv "brand community"?
-
-1.  Are Family Guy and 24 fans brand communities or just TV viewers? How visible are brand subcultures?
-2.  Why are Family Guy and 24 good brand-community shows? What other TV series may be brand communities?
-3.  What did Fox do for Family Guy and 24 fans? What Family Guy/24 components do fans control?
-4.  Family Guy and 24 fans more significant to Fox than other series' followers? Why?
-
-# Airbnb
-
 # Brand Extension
-
-## 
 
 ## KFC's Nail Polish
 

@@ -2,41 +2,141 @@
 title: "Brand Audit"
 author: "Mike Nguyen"
 date: "`r Sys.Date()`"
-output:
-  pdf_document: default
-  html_document: default
+output: pdf_document
 ---
 
-| Task                         | Date        | Points |
-|------------------------------|-------------|--------|
-| [Group Assignment]           | Sep 13      |        |
-| [Brand Positioning]          | Sep 27      |        |
-| [Brand Elements]             | Oct 4       |        |
-| [Brand Strategy - Pricing]   | Oct 11      |        |
-| [Brand Strategy - Promotion] | Oct 13      |        |
-| [Project Interim Report]     | Oct 20      |        |
-| [Project Report]             | Dec 1       |        |
-| [Project Presentation]       | Dec 6 and 8 |        |
-|                              |             |        |
-|                              |             |        |
-|                              |             |        |
-|                              |             |        |
-|                              |             |        |
+| Task                                   | Points |
+|----------------------------------------|--------|
+| [Group Formation]                      | 10     |
+| [Team Orientation and Brand Selection] | 10     |
+| [Brand Positioning]                    | 25     |
+| [Brand Elements]                       | 25     |
+| [Brand Strategy - Pricing]             | 25     |
+| [Brand Strategy - Promotion]           | 25     |
+| Mid-semester Peer Evaluation           |        |
+| [Progress Report]                      | 20     |
+| [Project Presentation]                 | 80     |
+| [Project Report]                       | 80     |
+| Final Peer Evaluation                  |        |
+| Total                                  | 300    |
 
 \newpage
 
-# Group Assignment
+# Group Formation
+
+-   Your group will will together extensively throughout the semester to complete a term project.
+
+-   There can be up to 5 members per group.
+
+-   You may
+
+    -   choose the members of your group or
+
+    -   have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis.
+
+-   During the first class session, there will be small group breakout that will allow you to get to know some of your classmates
+
+Submit this assignment on Canvas and indicate
+
+-   Title your assignment word document file name with "**Group & team captain's initials**" if you and three or four other classmates have formed a team. For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ.' In the word document to be submitted, please include the identity of your teammates, including your name in descending order of the first name
+
+-   Title your assignment word document file name with "**Random & your initials**" if you would like the instructor to assign you to a team
+
+This assignment needs to be submitted individually by each student in the class.
+
+# Team Orientation and Brand Selection
+
+Your group should submit the two items below on Canvas.
+
+**(1)** Completed [Team Orientation Assignment](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/Team%20Orientation.docx)
+
+**(2)** Your group's brand choice for the project
+
+# Brand Exploratory
+
+-   Consumer profiles: who are the current target consumers for your brand?
+
+-   Consumer's mental map of the brand: consumer knowledge of the brand awareness, associations (e.g., category, use, brand promise). This report is to understand what consumers think and feel about the brand to identify sources of brand equity.
+
+Sources to develop your brand mental map:
+
+-   Analysis of prior research (internal, external) and media (trade magazines, PR sources, employee interviews)
+
+-   Qualitative research (from classmates) and possibly an exploratory quantitative survey to develop a metal map of brand knowledge.
+
+Each group is expected to submit a two-page double-spaced word or pdf document.
 
 # Brand Positioning
 
+Summary of the positioning of the brand.
+
+A comprehensive summary of a firm's current marketing and branding programs
+
+-   Current market: A detailed profile of how a firm markets, brands, and sells its products and services.
+-   Examine the product/idea/service inherent attributes (4Ps)
+-   Current Competition: Examine direct and indirect competitive brands for points of parity and points of difference
+-   Students are encouraged to incorporate these factors into a comprehensive SWOT analysis. However, this is not mandatory.
+
+Recommendations for brand positioning
+
+-   Identify the target market that would be willing to pay for the proposed positioning
+
+-   How to move the current brand image to the desired brand image? Which new associations to create and which ones to eliminate?
+
+Each group must submit a 5-page double-spaced word or pdf document.
+
 # Brand Elements
+
+-   Critically examine all brand elements of your chosen brand (e.g., logos, symbols, packaging, slogans, trademarks).
+
+Each group is expected to turn in a 2-page double-spaced report.
 
 # Brand Strategy - Pricing
 
+-   Since you have the brand positioning, target market, and elements in place, it is time to put together a brand strategy.  This section focuses on pricing where each team is required to come up with a pricing strategy.  It includes the base prices, special pricing programs, bundle packages, and season ticket pricing.
+
+-   Keep in mind that pricing is a powerful tool for branding. Use your imagination and creativity to formulate a pricing strategy that can strengthen your brand equity.
+
+Each team is expected to turn in a 1-page double-spaced report.
+
 # Brand Strategy - Promotion
 
-# Project Interim Report
+-   In this section, you are asked to put together a promotion campaign for your brand.  You can take advantage of various promotional programs such as advertising, sales promotions, events and sponsorships, personal selling, and co-branding with strategic partners.
+
+-   Feel free to come up with creative promotion ideas that are outside of the traditional promotional toolbox.  Again, your promotional campaign should be designed around your positioning and target market.
+
+Each team is required to submit a report of at least two pages. Due to the creative nature of this assignment, you can go for a longer report.
+
+# Meeting with instructor
+
+-   Each group will meet with the instructor to go over the project and discuss the [progress report].
+
+-   Your group is expected to explain the progress and the direction you want to go to complete the project, and the instructor will provide feedback and advice on completing the project.
+
+-   The meeting times will be scheduled during class time.
+
+# Mid-term Evaluation
+
+[link](https://pitt.co1.qualtrics.com/jfe/form/SV_9QtDOayurK08llc)
+
+# Progress Report {data-link="Progress Report"}
+
+-   Each group is required to submit a **double-spaced two-page memo** summarizing the progress of the project and the plan for its completion.  It should address the issues raised during the meeting with the instructor earlier and describe the progress and challenges.
+
+-   It would be ideal to have the backbone of the project paper done by this point so that the instructor can provide specific feedback.
+
+# Project Presentation {data-link="Project Presentation"}
+
+Each team will deliver a 25-minute brand audit in the last two weeks of the semester. On the day of the presentation, I'd also like the slides.
+
+[Presentation Evaluation](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y)
 
 # Project Report
 
-# Project Presentation
+Each group must submit a report of at least 15 pages, including one page for an executive summary and one page for appendices (1" margins, 12-point font).
+
+Your brand audit report should be a cohesive compilation of all previous assignments with improvements suggested by the instructor as well as feedback from your presentation. Your group project grade will greatly suffer if you just copy and paste all previous sections.
+
+# Final Evaluation
+
+[link](https://pitt.co1.qualtrics.com/jfe/form/SV_4GbkPzBwJ0ygKnc)
