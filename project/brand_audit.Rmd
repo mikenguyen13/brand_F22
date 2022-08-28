@@ -9,15 +9,17 @@ output: pdf_document
 |----------------------------------------|--------|
 | [Group Formation]                      | 10     |
 | [Team Orientation and Brand Selection] | 10     |
-| [Brand Positioning]                    | 25     |
-| [Brand Elements]                       | 25     |
-| [Brand Strategy - Pricing]             | 25     |
-| [Brand Strategy - Promotion]           | 25     |
-| Mid-semester Peer Evaluation           |        |
+| [Brand Exploratory]                    | 20     |
+| [Brand Positioning]                    | 20     |
+| [Brand Elements]                       | 20     |
+| [Brand Strategy - Pricing]             | 20     |
+| [Brand Strategy - Promotion]           | 20     |
+| [Mid-term Evaluation]                  | 5      |
 | [Progress Report]                      | 20     |
-| [Project Presentation]                 | 80     |
+| [Project Presentation]                 | 60     |
+| [Presentation Critique]                | 10     |
 | [Project Report]                       | 80     |
-| Final Peer Evaluation                  |        |
+| [Final Evaluation]                     | 5      |
 | Total                                  | 300    |
 
 \newpage
@@ -161,7 +163,7 @@ This evaluation is confidential and will not be shared with group members. Howev
 
 This assignment is due the day before your presentation at 11:59 PM.
 
--   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/presentation/Pointers%20on%20presentations.docx).
+-   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/brand_F22/raw/main/project/presentation/Pointers%20on%20presentations.docx).
 
 -   The presentation can be either in PowerPoint format, Google Slides, or Prezi.
 
@@ -169,7 +171,7 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   The presentation should last 25 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation (5 minutes).
 
--   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
+-   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/brand_F22/raw/main/project/presentation/Presentation%20Evaluation%20Assignment.pdf)."
 
 -   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
@@ -177,13 +179,15 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 The grade for this assignment is based on
 
--   Presentation submission (10 points)
--   [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (10 points)
--   Peers' evaluations (20 points)
+-   Presentation submission (20 points)
+-   [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (20 points)
+-   Peers' evaluations (40 points)
 
 # Presentation Critique
 
-[link](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y)
+Step 1: Familiarize yourself with the details of the critique assignment as described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/brand_F22/raw/main/project/presentation/Presentation%20Evaluation%20Assignment.pdf)".
+
+Step 2: All teams that are not presenting are required to submit their evaluation (1 evaluation per team for a presenting group). To submit your presentation critique, please fill out [this Qualtrics survey](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y) after each presentation (you can submit the survey multiple times)
 
 # Project Report
 
@@ -193,4 +197,24 @@ Your brand audit report should be a cohesive compilation of all previous assignm
 
 # Final Evaluation
 
-[link](https://pitt.co1.qualtrics.com/jfe/form/SV_4GbkPzBwJ0ygKnc)
+-   In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far.
+
+-   Click this [link](https://pitt.co1.qualtrics.com/jfe/form/SV_4GbkPzBwJ0ygKnc) to complete your evaluation.
+
+**Please submit the screenshot of your survey submission.**
+
+**If this form is not submitted, you may receive an incomplete grade for the course.**
+
+The formula to calculate your final report score is
+
+$$
+(\text{Mid-term Evaluation} \times \frac{1}{3} + \text{Final Evaluation} \times \frac{2}{3} ) \times \text{Instructor's score for the group}
+$$
+
+For example, you are evaluated to have contributed 60% to the project based on the mid-term evaluation. Remember that this is based on theoretical contributions, which means in a group of 5 people, you should contribute theoretically 20% (100%/5) to the overall project, but you are evaluated to contribute 12% to the overall project, then your theoretical contribution is 12%/20% = 60%.
+
+However, you try to make it up and, in the final evaluation, your team evaluates you as having contributed 100% of your efforts to the project (20%/20%). And the instructor assigns 80 points to your group. Then your report score will be
+
+$$
+(60\% \times \frac{1}{3} + 100 \% \times \frac{2}{3}) \times 80 \approx 70
+$$
