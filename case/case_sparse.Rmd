@@ -1,0 +1,70 @@
+---
+title: "case_sparse"
+author: "Mike Nguyen"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Burberry
+
+Burberry lost brand equity and was diluted over time, like many other great brands. Changes in customer preferences, competition, and brand marketing programs (product, pricing, promotion, and distribution) cause these circumstances. However, Rose Marie Bravo was able to revamp the brand.
+
+1.  The fashion business is inherently hazardous due to demand fluctuations. What modifications did Rose Marie Bravo implement? Have these modifications raised or reduced the risk?
+2.  How has the Team succeeded in enhancing the prominence of the Burberry brand?
+3.  Should Burberry shift towards a more limited usage of the check? How will this influence the sustainability of the brand?
+4.  What is Burberry's customer base? How may Burberry's non-target popularity harm the brand? How can the brand combat this?
+5.  Should Burberry launch Brit? And why?
+
+# Clorox: Positioning the Clorox toilet Wand System
+
+In April 2004, Clorox will unveil its sixth toilet cleaning method. This case examines how Clorox should position its late-entry product.
+
+1.  Should Clorox join the market for toilet cleaning systems?
+2.  Who should be the Clorox ToiletWand's intended market?
+3.  Determine the ToiletWand's competitive context; how should it be positioned in respect to its competitors?
+4.  Which benefit of the ToiletWand is most valuable to the intended consumer?
+5.  In its marketing plan, what should ToiletWand identify as its unique selling proposition?
+6.  Create a positioning statement.
+7.  Create a strategic statement.
+
+# Ralph Lauren
+
+Ralph Lauren is a world-renowned brand known for its design, elegance, and quality. Ralph Lauren offers items for men, women, children, and home furnishings, unlike many other high fashion labels. How does this corporation handle so many goods without dilution?
+
+1.  Compare Ralph Lauren's market position to rivals'. Their long-term position? Why?
+2.  Ralph Lauren Polo has various brands, collections, platforms, and licensees. How do these factors fit into Ralph Lauren's business model?
+3.  How can brand image be correctly transmitted through retail shop relationships?
+4.  Does POLO's premium image suffer when sold at Costco?
+5.  Why should RL add future extensions? What Ralph Lauren extensions wouldn't work, and why?
+6.  Is the brand protected if the man can't run the company?
+
+# Brand Extension
+
+## KFC's Nail Polish
+
+-   Is this a natural brand extension for KFC? Is this product consistent with KFC's core identity?
+
+-   Is any publicity good publicity? (e.g., [200 mil online views](https://america.cgtn.com/2016/05/20/kfc-nail-polish-campaign-causes-stir-on-hong-kong-social-media))
+
+Materials:
+
+-   [The Branding Journal](https://www.thebrandingjournal.com/2016/05/finger-lickin-good-kfc-nail-polish-product-launch/)
+
+-   [Video](https://www.youtube.com/watch?v=975JZw3khP8&ab_channel=HongKongBeatbox%28HKB%29)
+
+-   [BBC News](https://www.bbc.com/news/world-asia-china-36220142)
+
+# Rebranding DSM: creating Sustainable Shared Value
+
+1.  Why and how did DSM redesign their brand?
+2.  What modifications were made to the brand architecture?
+3.  How did the DSM determine its success?
+4.  How can DSM address future challenges?
+5.  Consider the function of sustainability as a company branding factor.
+
+# McDonald's and the Hotel Industry
+
+1.  Can the McDonald's brand franchise be utilized in the hotel industry? Which components are not exploitable?
+2.  Describe McDonald's brand identity and its core. Is there a distinction between adult and children segments?
+3.  Consider the six components outlined for hotel and accommodation in the case. Considering McDonald's brand identification and the competition, which hotel sector segment(s) would make the most sense for McDonald's to enter?
+4.  Based on your findings, develop a hotel concept for McDonald's. What is the positioning of the brand?
