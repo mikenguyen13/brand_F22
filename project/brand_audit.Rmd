@@ -117,7 +117,37 @@ Each team is required to submit a report of at least two pages. Due to the creat
 
 # Mid-term Evaluation
 
-[link](https://pitt.co1.qualtrics.com/jfe/form/SV_9QtDOayurK08llc)
+-   In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far.
+
+-   Click this [link](https://pitt.co1.qualtrics.com/jfe/form/SV_9QtDOayurK08llc) to complete your evaluation.
+
+-   This evaluation will be used to calculate 1/3 of the weight for your final report score, which means you can still have a chance to work hard and make up the work to earn a higher grade.
+
+**Please submit the screenshot of your survey submission.**
+
+The formula to calculate your final report score is
+
+$$
+(\text{Mid-term Evaluation} \times \frac{1}{3} + \text{Final Evaluation} \times \frac{2}{3} ) \times \text{Instructor's score for the group}
+$$
+
+For example, you are evaluated to have contributed 60% to the project based on the mid-term evaluation. Remember that this is based on theoretical contributions, which means in a group of 5 people, you should contribute theoretically 20% (100%/5) to the overall project, but you are evaluated to contribute 12% to the overall project, then your theoretical contribution is 12%/20% = 60%.
+
+However, you try to make it up and, in the final evaluation, your team evaluates you as having contributed 100% of your efforts to the project (20%/20%). And the instructor assigns 80 points to your group. Then your report score will be
+
+$$
+(60\% \times \frac{1}{3} + 100 \% \times \frac{2}{3}) \times 80 \approx 70
+$$
+
+This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group. Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
+
+-   is communication in the group working effectively? Are there ways it could be improved?
+
+-   is everyone doing their fair share of work? Is anyone feeling over-burdened?
+
+-   what significant contributions has each group member made to the project so far?
+
+-   what changes could each group member make to enhance group functioning?
 
 # Progress Report {data-link="Progress Report"}
 
@@ -127,9 +157,33 @@ Each team is required to submit a report of at least two pages. Due to the creat
 
 # Project Presentation {data-link="Project Presentation"}
 
-Each team will deliver a 25-minute brand audit in the last two weeks of the semester. On the day of the presentation, I'd also like the slides.
-
 [Presentation Evaluation](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y)
+
+This assignment is due the day before your presentation at 11:59 PM.
+
+-   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/presentation/Pointers%20on%20presentations.docx).
+
+-   The presentation can be either in PowerPoint format, Google Slides, or Prezi.
+
+-   During the presentation, the monitor at the back of the room will be turned off so that you can get more practice in a setting similar to what you will encounter in a business environment.
+
+-   The presentation should last 25 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation (5 minutes).
+
+-   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_S22/raw/main/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
+
+-   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
+
+-   On presentation day, you must be set up and ready to go [before]{.underline} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
+
+The grade for this assignment is based on
+
+-   Presentation submission (10 points)
+-   [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (10 points)
+-   Peers' evaluations (20 points)
+
+# Presentation Critique
+
+[link](https://pitt.co1.qualtrics.com/jfe/form/SV_bPGLFQRYFiYFH8y)
 
 # Project Report
 
