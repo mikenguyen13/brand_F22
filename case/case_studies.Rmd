@@ -5,9 +5,17 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
-Based on the Best Practice Cases in Branding, Strategic Brand Management
+These case studies are based on the Best Practice Cases in Branding, Strategic Brand Management
 
 To purchase the case studies, use this [link](https://console.pearsoned.com/enrollment/maumcs)
+
+For each case study, you have to submit a 5-page document that answers and discusses all the discussion questions in detail.
+
+Always refer to this document and the case collection before turning in your report.
+
+# Nike: Building a Global Brand
+
+Refer to the case collection
 
 # MTV: Building Brand Resonance
 
@@ -18,6 +26,28 @@ Discussion Questions:
 1.  Explain MTV's past and present brand equity. What's changed?
 2.  How has the Internet impacted MTV's branding? How should MTV's strategy adapt because of the internet's changing role?
 3.  What is MTV's brand portfolio? How have sister networks influenced its brand equity? How would you position sibling networks to increase MTV's equity?
+
+# Target: Building a Retail Icon
+
+Refer to the case collection
+
+# Red Bull: Building a Brand in Nontraditional Ways
+
+Refer to the case collection
+
+# got milk?: Brand a Commodity
+
+Refer to the case collection
+
+# Intel: Building a Technology Brand
+
+Refer to the case collection
+
+# Dollar Shave Club - Brand Story
+
+Additional Materials:
+
+-   [Linx's summary video](https://www.youtube.com/watch?v=QdlZory4hOs)
 
 # The Hunger Games: Catching Fire
 
@@ -34,12 +64,6 @@ Materials:
 
 -   [News](https://www.minttwist.com/blog/catching-fire-a-hunger-games-digital-marketing-case-study/)
 
-# Dollar Shave Club - Brand Story
-
-Additional Materials:
-
--   [Linx's summary video](https://www.youtube.com/watch?v=QdlZory4hOs)
-
 # Nivea: Managing a Global Brand Hierarchy
 
 Nivea, the world's largest cosmetics brand, has guarded its position in Europe for a decade. The corporation grew throughout South and Latin America, Eastern Europe, and Asia. Nivea was global by the late 1990s. Nivea expanded its product offerings by entering new markets and creating new subbrands. In this scenario, we'll explore how Nivea has grown while maintaining strong brand connotations.
@@ -47,8 +71,6 @@ Nivea, the world's largest cosmetics brand, has guarded its position in Europe f
 1.  How did Nivea succeed? Determine their marketing program's success factors.
 2.  What's Nivea's brand equity? Which items help maintain equity?
 3.  How does the Nivea umbrella brand compare to various product brands? How should Nivea handle its hierarchy?
-
-# 
 
 # Snapple: Revitalizing a Brand
 

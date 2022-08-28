@@ -6,6 +6,6 @@ server: rpubs.com
 hostUrl: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/935567/1dab0177236f4a2bb95b2173292b93d4
 bundleId: https://api.rpubs.com/api/v1/document/935567/1dab0177236f4a2bb95b2173292b93d4
-url: http://rpubs.com/publish/claim/935567/cabfcbbafae34ac89c405817bc0edbf0
-when: 1661647666.42005
-lastSyncTime: 1661647666.42005
+url: http://rpubs.com/mikenguyen/935567
+when: 1661651945.58115
+lastSyncTime: 1661651945.58115

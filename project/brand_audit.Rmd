@@ -26,7 +26,7 @@ output: pdf_document
 
 # Group Formation
 
--   Your group will will together extensively throughout the semester to complete a term project.
+-   Your group will work together extensively throughout the semester to complete a term project.
 
 -   There can be up to 5 members per group.
 
@@ -181,7 +181,7 @@ The grade for this assignment is based on
 
 -   Presentation submission (20 points)
 -   [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (20 points)
--   Peers' evaluations (40 points)
+-   Peers' evaluations (20 points)
 
 # Presentation Critique
 
