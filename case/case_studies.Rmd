@@ -21,7 +21,7 @@ Refer to the case collection
 
 MTV was founded in 1981 as a cable pioneer. Over the following 20 years, MTV became the center of pop culture worldwide. This case covers MTV's journey from humble beginnings to worldwide media network.
 
-Discussion Questions:
+Potenial Discussion Questions:
 
 1.  Explain MTV's past and present brand equity. What's changed?
 2.  How has the Internet impacted MTV's branding? How should MTV's strategy adapt because of the internet's changing role?
@@ -45,11 +45,20 @@ Refer to the case collection
 
 # Dollar Shave Club - Brand Story
 
-Additional Materials:
+Materials:
 
+-   Document
 -   [Linx's summary video](https://www.youtube.com/watch?v=QdlZory4hOs)
 
 # The Hunger Games: Catching Fire
+
+Materials:
+
+-   [Document](https://github.com/mikenguyen13/brand_F22/raw/main/case/the-hunger-games-catching-fire-social-media-for-brand-storytelling-case.pdf)
+
+-   [News](https://www.minttwist.com/blog/catching-fire-a-hunger-games-digital-marketing-case-study/)
+
+Discussion Questions
 
 1.  What is the difference between The Hunger Games' marketing campaign and a traditional one for a movie?
 2.  Critique the brand storytelling aspect of the marketing campaign based on persistence, pervasiveness, participation, and personalization.
@@ -58,15 +67,11 @@ Additional Materials:
 5.  For the sequel, what aspect of the campaign would you continue to use and what aspect would you leave out?
 6.  In what ways might non-entertainment items be marketed using the transmedia storytelling strategy? Do you think brand storytelling is the future of the entertainment industry or it was a one-hit wonder?
 
-Materials:
-
--   Document
-
--   [News](https://www.minttwist.com/blog/catching-fire-a-hunger-games-digital-marketing-case-study/)
-
 # Nivea: Managing a Global Brand Hierarchy
 
 Nivea, the world's largest cosmetics brand, has guarded its position in Europe for a decade. The corporation grew throughout South and Latin America, Eastern Europe, and Asia. Nivea was global by the late 1990s. Nivea expanded its product offerings by entering new markets and creating new subbrands. In this scenario, we'll explore how Nivea has grown while maintaining strong brand connotations.
+
+Potential Discussion Questions:
 
 1.  How did Nivea succeed? Determine their marketing program's success factors.
 2.  What's Nivea's brand equity? Which items help maintain equity?
@@ -80,7 +85,7 @@ This case follows Snapple's 26-year history. It chronicles the brand's genesis, 
 
 Snapple was an American success story that lost its way and rediscovered itself over 20 years. Snapple entered the soft drink industry in the 1980s. It was the first alternative beverage to challenge Coke and Pepsi. It wasn't a soda, therefore it was innovative. Using glass bottles and a hot fill procedure, Snapple was made without preservatives. The outcome was "Best Stuff on Earth" product and brand. Snapple has a joyful, quirky image.
 
-Discussion Questions
+Potential Discussion Questions
 
 1.  Why did Snapple thrive from 1972 to 1993 when many premium fruit drink startups failed? Consider 4 Ps
 
@@ -98,7 +103,7 @@ Discussion Questions
 
 8.  How should Cadbury handle Snapple? Should Snapple grow or change?
 
-Materials:
+Additonal Materials:
 
 -   [Summary by HBR](https://hbr.org/2002/01/how-snapple-got-its-juice-back)
 
