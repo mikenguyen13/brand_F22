@@ -58,18 +58,18 @@ It includes lectures, exercises, case discussions, and a brand audit assignment.
 
 # Student Evaluation
 
-| Components               | Points |
-|--------------------------|--------|
-| **Individual**           |        |
-| [Examinations] (2)       | 200    |
-| [Attendance]             | 40     |
-| [Participation]          | 60     |
-| [Biweekly Quizzes]       | 100    |
-| [Case Studies] (10)      | 200    |
-| **Group**                |        |
-| [Case Discussion Leader] | 100    |
-| [Brand Audit]            | 300    |
-| Total                    | 1000   |
+| Components                                            | Points |
+|-------------------------------------------------------|--------|
+| **Individual**                                        |        |
+| [Examinations] (2)                                    | 200    |
+| [Attendance]                                          | 40     |
+| [Participation]                                       | 60     |
+| [Biweekly Quizzes]                                    | 100    |
+| [Case Studies] (10)                                   | 200    |
+| **Group**                                             |        |
+| [Case Discussion Leader]                              | 100    |
+| [Brand Audit](#group-term-project-project-assignment) | 300    |
+| Total                                                 | 1000   |
 
 Extra Credit: 3-5%
 
@@ -151,7 +151,7 @@ Assignments consist of:
 -   [Biweekly Quizzes]
 -   [Case Studies]
 -   [Case Discussion Leader]
--   [Brand Audit]
+-   [Brand Audit](#group-term-project-project-assignment)
 
 <br>
 
