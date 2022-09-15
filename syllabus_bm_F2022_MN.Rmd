@@ -3,14 +3,14 @@ title: "BUSMKT 1481-1060 Brand Management"
 author: "Mike Nguyen"
 date: "`r Sys.Date()`"
 output:
-  pdf_document:
-    number_sections: yes
-    toc: yes
-  html_notebook:
-    number_sections: yes
   html_document:
     toc: yes
     df_print: paged
+  html_notebook:
+    number_sections: yes
+  pdf_document:
+    number_sections: yes
+    toc: yes
 subtitle: Syllabus Fall 2022
 urlcolor: blue
 bibliography: references.bib
@@ -185,7 +185,7 @@ Assignments consist of:
 
 -   To purchase the case studies, you can use this [link](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fd9yj07t7.r.us-east-1.awstrack.me%2FL0%2Fhttps%3A%252F%252Fconsole.pearsoned.com%252Fenrollment%252Fmaumcs%2F1%2F010001827c9c20fd-c75aa05b-628b-423e-8894-43981b9dc336-000000%2FPDuMBXlPYzOK0zo_2Ff8GKL_eiE%3D281&data=05%7C01%7Cmikenguyen%40mail.missouri.edu%7C7bce8b681cf64715a7af08da79198b50%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C637955447877003041%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KxP2J1X4e47FVLTzf6R3gJx7X77AfaK%2FOdDdLa34I9Y%3D&reserved=0)
 
--   Please read the "[Case Studies](https://github.com/mikenguyen13/mar4050_S22/raw/main/case_discussion/case_discussion.pdf)" for more information.
+-   Please read the "[Case Studies](https://github.com/mikenguyen13/brand_F22/raw/main/case/case_studies.pdf)" for more information.
 
 <br>
 
