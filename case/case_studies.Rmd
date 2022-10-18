@@ -3,6 +3,7 @@ title: "Case Studies"
 author: "Mike Nguyen"
 date: "`r Sys.Date()`"
 output: pdf_document
+urlcolor: blue
 ---
 
 These case studies are based on the Best Practice Cases in Branding, Strategic Brand Management
